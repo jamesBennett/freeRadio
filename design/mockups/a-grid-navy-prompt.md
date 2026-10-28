@@ -1,0 +1,5 @@
+# Grid — dark blue revision
+
+Created with the built-in image generation tool, editing `a-grid.png`. Output: `a-grid-navy.png`.
+
+Edit the supplied A / GRID native iOS radio app mockup. Change ONLY the olive green UI accent color to a rich dark navy blue, target hex #173B67. Apply this replacement consistently to the selected All genre chip, all three filled saved-station pushpins, the small playing equalizer, the LIVE badge background, the active volume-slider segment, and the selected bottom-tab icons and labels (Stations on left screen and Player on right screen). Preserve white text inside the chip and LIVE badge. Keep every other pixel/design element as close to the original as possible: same two phones, same composition, same warm white backgrounds, same oversized black Helvetica-style typography, exact same text, same album and station artwork, same black pause button, same gray stop button, same inactive controls and rules. No new elements, no new labels, no layout changes. The source image is the edit target, not merely inspiration.
